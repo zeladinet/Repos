@@ -1,0 +1,2 @@
+\\TK5-RED-MDS-07z\MyDocs2\bkeogh\Documents\Git\ConsoleApp\ConsoleApp\bin\Debug\reSearch.Samples.ConsoleApp.exe.config
+\\TK5-RED-MDS-07z\MyDocs2\bkeogh\Documents\Git\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache

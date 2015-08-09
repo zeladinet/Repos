@@ -1,0 +1,6 @@
+\\TK5-RED-MDS-07z\MyDocs2\bkeogh\Documents\Git\TextManipulation\TextManipulation\bin\Debug\TextManipulation.exe.config
+\\TK5-RED-MDS-07z\MyDocs2\bkeogh\Documents\Git\TextManipulation\TextManipulation\bin\Debug\TextManipulation.exe
+\\TK5-RED-MDS-07z\MyDocs2\bkeogh\Documents\Git\TextManipulation\TextManipulation\bin\Debug\TextManipulation.pdb
+\\TK5-RED-MDS-07z\MyDocs2\bkeogh\Documents\Git\TextManipulation\TextManipulation\obj\Debug\TextManipulation.csprojResolveAssemblyReference.cache
+\\TK5-RED-MDS-07z\MyDocs2\bkeogh\Documents\Git\TextManipulation\TextManipulation\obj\Debug\TextManipulation.exe
+\\TK5-RED-MDS-07z\MyDocs2\bkeogh\Documents\Git\TextManipulation\TextManipulation\obj\Debug\TextManipulation.pdb

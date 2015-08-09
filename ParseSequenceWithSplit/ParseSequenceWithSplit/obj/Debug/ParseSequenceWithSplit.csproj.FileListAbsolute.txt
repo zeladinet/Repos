@@ -1,0 +1,6 @@
+\\TK5-RED-MDS-07z\MyDocs2\bkeogh\Documents\Git\ParseSequenceWithSplit\ParseSequenceWithSplit\bin\Debug\ParseSequenceWithSplit.exe.config
+\\TK5-RED-MDS-07z\MyDocs2\bkeogh\Documents\Git\ParseSequenceWithSplit\ParseSequenceWithSplit\bin\Debug\ParseSequenceWithSplit.exe
+\\TK5-RED-MDS-07z\MyDocs2\bkeogh\Documents\Git\ParseSequenceWithSplit\ParseSequenceWithSplit\bin\Debug\ParseSequenceWithSplit.pdb
+\\TK5-RED-MDS-07z\MyDocs2\bkeogh\Documents\Git\ParseSequenceWithSplit\ParseSequenceWithSplit\obj\Debug\ParseSequenceWithSplit.csprojResolveAssemblyReference.cache
+\\TK5-RED-MDS-07z\MyDocs2\bkeogh\Documents\Git\ParseSequenceWithSplit\ParseSequenceWithSplit\obj\Debug\ParseSequenceWithSplit.exe
+\\TK5-RED-MDS-07z\MyDocs2\bkeogh\Documents\Git\ParseSequenceWithSplit\ParseSequenceWithSplit\obj\Debug\ParseSequenceWithSplit.pdb

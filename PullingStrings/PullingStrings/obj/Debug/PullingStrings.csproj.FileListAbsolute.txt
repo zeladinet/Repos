@@ -1,0 +1,6 @@
+\\TK5-RED-MDS-07z\MyDocs2\bkeogh\Documents\Git\PullingStrings\PullingStrings\bin\Debug\PullingStrings.exe.config
+\\TK5-RED-MDS-07z\MyDocs2\bkeogh\Documents\Git\PullingStrings\PullingStrings\bin\Debug\PullingStrings.exe
+\\TK5-RED-MDS-07z\MyDocs2\bkeogh\Documents\Git\PullingStrings\PullingStrings\bin\Debug\PullingStrings.pdb
+\\TK5-RED-MDS-07z\MyDocs2\bkeogh\Documents\Git\PullingStrings\PullingStrings\obj\Debug\PullingStrings.csprojResolveAssemblyReference.cache
+\\TK5-RED-MDS-07z\MyDocs2\bkeogh\Documents\Git\PullingStrings\PullingStrings\obj\Debug\PullingStrings.exe
+\\TK5-RED-MDS-07z\MyDocs2\bkeogh\Documents\Git\PullingStrings\PullingStrings\obj\Debug\PullingStrings.pdb
