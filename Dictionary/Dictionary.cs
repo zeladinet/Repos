@@ -39,6 +39,29 @@ namespace HelloWorld
 				Console.WriteLine("Key: " + pair.Key.PadRight(8) + "Value: " + pair.Value);
 			}
 
+			Console.WriteLine("\nJust the keys:");
+
+			// Dictionary<TKey, TValue>. KeyCollection is a collection of just the keys
+			//	in this case string. So here's how to retrieve the keys;
+
+			Dictionary<string, string>.KeyCollection keys = dict.Keys;
+
+			foreach (string key in keys)
+			{
+				Console.WriteLine("Key: "+ key);
+			}
+
+			// List the values, which are in the same order as the key collection above.
+
+			Console.WriteLine("\nJust the values");
+			Dictionary<string, string>.ValueCollection values = dict.Values;
+			foreach(string value in values)
+			{
+				Console.WriteLine("Value: " + value);
+			}
+
+			Console.WriteLine("\nNumber of items in the dictionary: " + dict.Count);
+
 
 		}
 	}
