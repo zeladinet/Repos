@@ -50,6 +50,13 @@ namespace Template
       Console.ForegroundColor = ConsoleColor.White;
       Console.WriteLine();
 
+      Console.WriteLine("\nFinding the unique cases");
+      senatorsRunning.ExceptWith(presentialCandidates);
+      foreach (string diff in presentialCandidates)
+      {
+        Console.WriteLine(diff);
+      }
+
 
     }
   }

@@ -39,6 +39,8 @@ namespace Template
         Console.WriteLine(color);
       }
 
+      Console.WriteLine();
+
 
     }
   }
